@@ -1,0 +1,36 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+.logo{
+    display: inline-block;
+    padding: 1em;
+    margin: 8px;
+    padding:7px;
+    list-style:none;
+    color: white;
+    justify-content:flex-end;
+}
+.side{
+    justify-content:flex-end;
+}
+.right{
+    float: left;
+}
+.nav{
+    background-color: #8e97a0;
+    color: white;
+}
+.log{
+    margin-left: 1em;
+}
+.wrapper{
+    position: relative;
+  }
+.another .card{
+    position: absolute;
+}
